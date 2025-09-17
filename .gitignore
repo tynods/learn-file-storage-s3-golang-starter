@@ -4,3 +4,4 @@ out
 .idea/
 assets/
 samples/
+.DS_Store
